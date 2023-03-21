@@ -4,6 +4,7 @@
   "description": "Respostas do desafio proposto para vaga de estágio",
   "main": "index.js",
   "scripts": {
+    "start": "ts-node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
