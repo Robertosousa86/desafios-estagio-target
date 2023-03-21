@@ -1,17 +1,19 @@
-const somaWhile = () => {
-  const INDICE: number = 13;
-  let SOMA: number = 0;
-  let K: number = 0;
+export const fibonacci = (num: number): string => {
+  let a: number = 0;
+  let b: number = 1;
+  let c: number = 0;
 
-  while (K < INDICE) {
-    K = ++K;
-
-    SOMA = SOMA + K;
+  if (num === 0) {
+    return `O número ${num} pertence a sequência de Fibonacci.`;
   }
 
-  return console.log(
-    `Ao final do processamento, o valor da variável SOMA será ${SOMA}`
-  );
-};
+  while (b <= num) {
+    c = a + b;
+    a = b;
+    b = c;
 
-somaWhile();
+    if (b === num) return `O número ${num} pertence a sequência de Fibonacci.`;
+  }
+
+  return `O número ${num} não pertence a sequência de Fibonacci.`;
+};
