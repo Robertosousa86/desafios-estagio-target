@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Robertosousa86/desafios-target/issues"
   },
-  "homepage": "https://github.com/Robertosousa86/desafios-target#readme"
+  "homepage": "https://github.com/Robertosousa86/desafios-target#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
 }
