@@ -35,3 +35,21 @@ O Processo terá todas as etapas online!
 Criei esse repositório com intuito de entregar os códigos de cada desafio. Irei utilizar `Typescript` para resolver os desafios e para uma melhor organização irei criar diferentes `branches` no meu repositório (ramificações de código), sendo que cada branche irá conter a resposta de um desafio.
 
 Boa sorte para Mim 😊
+
+## Descrição do Desafio 1
+
+Observe o trecho de código abaixo:
+
+```bash
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+{
+K = K + 1;
+SOMA = SOMA + K;
+}
+
+imprimir(SOMA);
+```
+
+Ao final do processamento, qual será o valor da variável SOMA?
