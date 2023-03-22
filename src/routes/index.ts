@@ -1,8 +1,8 @@
 import express from 'express';
-import invoiceRoutes from './invoices';
+import percentageOfrepresentation from './percentageOfRepresentation';
 
 const router = express.Router();
 
-router.use('/', invoiceRoutes);
+router.use('/', percentageOfrepresentation);
 
 export default router;
