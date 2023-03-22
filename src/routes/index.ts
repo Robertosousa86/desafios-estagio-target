@@ -1,8 +1,8 @@
 import express from 'express';
-import percentageOfrepresentation from './percentageOfRepresentation';
+import percentageOfRepresentation from './percentageOfRepresentation';
 
 const router = express.Router();
 
-router.use('/', percentageOfrepresentation);
+router.use('/', percentageOfRepresentation);
 
 export default router;
