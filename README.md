@@ -32,6 +32,18 @@ O Processo terá todas as etapas online!
 
 ## Sobre minhas respostas aos Desafios
 
-Criei esse repositório com intuito de entregar os códigos de cada desafio. Irei utilizar `Typescript` para resolver os desafios e para uma melhor organização irei criar diferentes `branches` no meu repositório (ramificações de código), sendo que cada branche irá conter a resposta de um desafio.
+Criei esse repositório com intuito de entregar os códigos de cada desafio. Irei utilizar `Typescript` para resolver os desafios e para uma melhor organização irei criar diferentes `branches` no meu repositório (ramificações de código), sendo que cada branch irá conter a resposta de um desafio.
 
 Boa sorte para Mim 😊
+
+## Links das Respostas
+
+- [Fibonacci]('https://github.com/Robertosousa86/desafios-target/tree/soma/while')
+
+- [Fibonacci]('https://github.com/Robertosousa86/desafios-target/tree/fibonacci')
+
+- [Faturamento]('https://github.com/Robertosousa86/desafios-target/tree/faturamento')
+
+- [Porcentagem de Faturamento]('https://github.com/Robertosousa86/desafios-target/tree/porcentagem-faturamento')
+
+- [Revertendo String]('https://github.com/Robertosousa86/desafios-target/tree/revertendo-string')
