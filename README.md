@@ -38,12 +38,12 @@ Boa sorte para Mim 😊
 
 ## Links das Respostas
 
-- [Fibonacci]('https://github.com/Robertosousa86/desafios-target/tree/soma/while')
+[Soma]('https://github.com/Robertosousa86/desafios-target/tree/soma/while')
 
-- [Fibonacci]('https://github.com/Robertosousa86/desafios-target/tree/fibonacci')
+[Fibonacci]('https://github.com/Robertosousa86/desafios-target/tree/fibonacci')
 
-- [Faturamento]('https://github.com/Robertosousa86/desafios-target/tree/faturamento')
+[Faturamento]('https://github.com/Robertosousa86/desafios-target/tree/faturamento')
 
-- [Porcentagem de Faturamento]('https://github.com/Robertosousa86/desafios-target/tree/porcentagem-faturamento')
+[Porcentagem de Faturamento]('https://github.com/Robertosousa86/desafios-target/tree/porcentagem-faturamento')
 
-- [Revertendo String]('https://github.com/Robertosousa86/desafios-target/tree/revertendo-string')
+[Revertendo String]('https://github.com/Robertosousa86/desafios-target/tree/revertendo-string')
