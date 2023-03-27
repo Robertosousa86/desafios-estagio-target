@@ -7,7 +7,6 @@ export class AboveAverageController {
 
     const aboveAverageData = await aboveAverageService.execute();
 
-    console.log(aboveAverageData);
     return response.status(200).json(aboveAverageData);
   }
 }

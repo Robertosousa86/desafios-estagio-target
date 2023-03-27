@@ -2,9 +2,7 @@ import { readFile } from '../utils/readData';
 
 export class AboveAverageService {
   async execute(): Promise<number> {
-    const data: string = 'src/data/dados.json';
-
-    const invoiceData: Buffer = readFile(data);
+    const invoiceData: Buffer = readFile('src/data/dados.json');
 
     const invoiceArray: { dia: number; valor: number }[] = JSON.parse(
       invoiceData.toString()
