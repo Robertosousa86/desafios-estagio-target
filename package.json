@@ -6,7 +6,7 @@
   "scripts": {
     "start": "ts-node src/server.ts",
     "dev": "nodemon",
-    "test": "jest --watch"
+    "test": "jest --watch --runInBand"
   },
   "repository": {
     "type": "git",
@@ -32,5 +32,9 @@
     "ts-jest": "^29.0.5",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@types/supertest": "^2.0.12",
+    "supertest": "^6.3.3"
   }
 }
