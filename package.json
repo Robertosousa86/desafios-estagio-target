@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/Robertosousa86/desafios-target#readme",
   "devDependencies": {
+    "@types/express": "^4.17.17",
     "@types/jest": "^29.5.0",
+    "@types/supertest": "^2.0.12",
     "jest": "^29.5.0",
     "nodemon": "^2.0.22",
     "supertest": "^6.3.3",
